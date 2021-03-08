@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\toyRenderer\toyRenderer\main.cpp(58,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\toyRenderer\toyRenderer\main.cpp(59,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\toyRenderer\toyRenderer\main.cpp(60,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\toyRenderer\toyRenderer\main.cpp(61,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  toyRenderer.vcxproj -> F:\toyRenderer\Debug\toyRenderer.exe
